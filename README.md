@@ -17,6 +17,7 @@ I'm **Jim Macur**, a passionate software developer with a love for building inte
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![html](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![css](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge)
 
 ### Backend
 ![rubyonrails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=for-the-badge)
@@ -30,8 +31,9 @@ I'm **Jim Macur**, a passionate software developer with a love for building inte
 ![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)
 
 ### Currently learning
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge)
-
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ### Interested in learning
-Mocha, Chai, Jest
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge)
+![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge)
 
