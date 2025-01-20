@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Jim Macur**, a passionate software developer with a love for building interactive applications that bring ideas to life. My current project, **Chess War**, is an innovative fusion of Chess Pieces and the classic card game War. When I'm not coding, you'll find me exploring music, mastering chess strategies, running trails, rock climbing, or meditating.
+I'm **Jim Macur**, a passionate software developer with a love for building interactive applications that bring ideas to life. My current project, **Chess War**, is an innovative fusion of Chess Pieces and the classic card game War. When I'm not coding, you'll find me hanging with my family, travelling, exploring music, mastering chess strategies, running trails, rock climbing, or meditating.
 
 - 💬 Ask me about ... Frontend Development, Logic Games, Music, Meditation, or Running
 - 📫 How to reach me: <jim.macur@gmail.com>, [linkedin](https://www.linkedin.com/in/jimmacur/) 
